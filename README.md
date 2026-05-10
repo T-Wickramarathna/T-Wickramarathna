@@ -11,38 +11,59 @@
 ---
 
 ### 💫 About Me
-- 🔭 I’m currently working on **TechNest**, a Native Android E-commerce platform.
-- 🌱 Learning more about **AI Agents** and deep-diving into **System Architecture**.
-- 📱 Passionate about building seamless **Mobile Experiences** and **MERN Stack** solutions.
-- ⚡ Fun Fact: I enjoy the precision of **3D character modeling** in my free time.
+- 💻 Passionate about **Full Stack Development** with hands-on experience building modern web and mobile applications.  
+- 🔭 Currently working on a **Laravel project** while continuously exploring scalable backend architectures and clean UI/UX design principles.  
+- ☁️ Studying and experimenting with:
+  - AWS & Cloud Computing
+  - CI/CD Pipelines
+  - Scalable Application Development
+- 🤖 Curious about the world of **AI & Machine Learning** and constantly learning new concepts and technologies.  
 
 ---
 
-### 🚀 Technical Stack
+## 🧠 Technical Stack & Skills
 
-**Languages & Core**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,js,python,cpp,c&theme=dark" />
-</p>
-
-**Frontend & Mobile**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,react,html,css,tailwind,bootstrap&theme=dark" />
-</p>
-
-**Backend & Databases**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,spring,mongodb,firebase,django,mysql&theme=dark" />
-</p>
-
-**IDE & Productivity**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,pycharm,figma&theme=dark" />
+### 📜 Languages & Core
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,php,js,python,c&theme=dark" />
+  <p align="center">Java • PHP • JavaScript • Python • C</p>
 </p>
 
 ---
 
-### 🐍 Contribution Snake
+### 🌐 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind&theme=dark" />
+  <p align="center">• React • HTML • CSS • Bootstrap • TailwindCSS </p>
+</p>
+
+---
+
+### 📱 Mobile
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,react&theme=dark" />
+  <p align="center">• Android Studio • React Native</p>
+</p>
+
+---
+
+### ⚙️ Backend & Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,sqlite,mysql&theme=dark" />
+  <p align="center">• MongoDB • Firebase • SQLite • MySQL</p>
+</p>
+
+---
+
+### 🛠 IDE & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,figma&theme=dark" />
+  <p align="center">VS Code • IntelliJ IDEA • NetBeansIDE • Figma</p>
+</p>
+
+---
+
+### 👻 Contribution Pac-Man
 <p align="center">
   <img src="https://github.com/prasad-xma/prasad-xma/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
