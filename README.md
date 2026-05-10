@@ -65,7 +65,7 @@
 
 ### 👻 Contribution Pac-Man
 <p align="center">
-  <img src="https://github.com/prasad-xma/prasad-xma/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/T-Wickramarathna/T-Wickramarathna/output/github-contribution-grid-pacman.svg" alt="Pacman Animation" />
 </p>
 
 ---
