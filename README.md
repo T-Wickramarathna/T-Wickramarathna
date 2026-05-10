@@ -64,17 +64,19 @@
 ---
 
 ### 👻 Contribution Pac-Man
-<p align="center">
-  <img src="https://raw.githubusercontent.com/T-Wickramarathna/T-Wickramarathna/output/github-contribution-grid-pacman.svg" alt="Pacman Animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/T-Wickramarathna/T-Wickramarathna/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/T-Wickramarathna/T-Wickramarathna/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/T-Wickramarathna/T-Wickramarathna/pacman-output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasad-xma&show_icons=true&theme=dracula" alt="Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-xma&layout=compact&theme=dracula" alt="Top Langs" height="150" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/T-Wickramarathna/T-Wickramarathna/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=T-Wickramarathna&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ---
 
